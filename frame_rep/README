@@ -1,0 +1,6 @@
+爬虫五个模块
+爬虫调度器：spider.py
+URL管理器：urlManager.py
+HTML解析器：htmlParser.py
+HTML下载器：htmlDowloader.py
+数据存储器：dataSave.py
