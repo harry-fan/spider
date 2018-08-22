@@ -11,11 +11,11 @@ def _format_addr(s):
     return formataddr((Header(name, 'utf-8').encode(), addr))
 
 # 发件人地址
-to_addr = '1981632379@qq.com'
+to_addr = 'xxxxxxxxxxx@qq.com'
 # 第三方客户端登录授权码
-password = 'hchynaxztyisbggb'
+password = 'xxxxxxxxxxxxxx'
 # 收件人地址
-from_addr = '326946939@qq.com'
+from_addr = 'xxxxxxxxxx@qq.com'
 # qq邮箱服务器地址
 smtp_server = 'smtp.qq.com'
 
